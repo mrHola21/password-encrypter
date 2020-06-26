@@ -1,2 +1,2 @@
 # password-encrypter
-a python program that makes your passwords safe.
+a powerfull python program that makes your passwords safe.
